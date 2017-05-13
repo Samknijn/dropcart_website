@@ -1,0 +1,19 @@
+@import "_constants.scss";
+
+body{
+    font-size: $fontsize;
+}
+
+.kop{
+    color:$brand-color;
+}
+
+.container1{
+    background-color:$primary-color;
+    height:500px;
+}
+
+.footer{
+    margin-top:45px;
+    margin-bottom:45px;
+}

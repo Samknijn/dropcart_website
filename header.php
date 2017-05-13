@@ -2,13 +2,12 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <!-- Bootstrap -->
-    <link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/bootstrap.css.map" rel="stylesheet">
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/bootstrap-theme.min.css" rel="stylesheet">
-    <script src="/js/bootstrap-dropdownhover.min.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.css.map" rel="stylesheet">
+   
+
     
    
 <nav class="navbar navbar-toggleable-md navbar-light">

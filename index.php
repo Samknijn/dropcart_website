@@ -2,9 +2,8 @@
 
 include"header.php";
 ?>
-<html>
-    <body>
-    <div class="row container1">
+
+            <div class="row">
             <div col-sm-6>
             <div class="kop">
             <h1>Een compleet e-commerce platform voor dropmentshipment </h1>
@@ -19,6 +18,6 @@ include"header.php";
     
    
     
-</html>
+
 <?php
 include"footer.php";

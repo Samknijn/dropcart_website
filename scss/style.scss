@@ -1,20 +1,23 @@
 @import "_constants.scss";
 
-body{
+body {
     font-size: $fontsize;
 }
 
-.kop{
+.kop {
     color:$brand-color;
 }
 
-.container1{
+.bgcolor {
     background-color:$primary-color;
     height:500px;
-    
 }
 
-.footer{
+.footer {
     margin-top:45px;
     margin-bottom:45px;
+}
+
+.container {
+    width: 1800px !important;
 }

@@ -8,6 +8,10 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/bootstrap.css.map" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans" rel="stylesheet">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     
     <body>
@@ -60,4 +64,6 @@
       
   </div>
 </nav>
-    
+<div class="bgcolor">
+        <div class="container">
+            <div class="row">

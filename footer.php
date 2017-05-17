@@ -1,4 +1,4 @@
-<html><div class="footer">
+<div class="footer container">
  <div class="row">
         <div class="col-sm-1">
             
@@ -53,5 +53,6 @@
         
     </div>
     </div>
+
 </body>
 </html>
